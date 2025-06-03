@@ -1,0 +1,515 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{369A60D4-BF83-4787-A0A9-474D4658A7C2}|ufl_erp_api\\ufl_erp_api.csproj|c:\\users\\figue\\onedrive\\escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\controllers\\stockscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{369A60D4-BF83-4787-A0A9-474D4658A7C2}|ufl_erp_api\\ufl_erp_api.csproj|solutionrelative:ufl_erp_api\\controllers\\stockscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369A60D4-BF83-4787-A0A9-474D4658A7C2}|ufl_erp_api\\ufl_erp_api.csproj|c:\\users\\figue\\onedrive\\escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{369A60D4-BF83-4787-A0A9-474D4658A7C2}|ufl_erp_api\\ufl_erp_api.csproj|solutionrelative:ufl_erp_api\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369A60D4-BF83-4787-A0A9-474D4658A7C2}|ufl_erp_api\\ufl_erp_api.csproj|c:\\users\\figue\\onedrive\\escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{369A60D4-BF83-4787-A0A9-474D4658A7C2}|ufl_erp_api\\ufl_erp_api.csproj|solutionrelative:ufl_erp_api\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369A60D4-BF83-4787-A0A9-474D4658A7C2}|ufl_erp_api\\ufl_erp_api.csproj|c:\\users\\figue\\onedrive\\escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{369A60D4-BF83-4787-A0A9-474D4658A7C2}|ufl_erp_api\\ufl_erp_api.csproj|solutionrelative:ufl_erp_api\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A8E999-1337-47C7-8F73-A9C5BF9497FA}|ufl_erp\\ufl_erp.csproj|c:\\users\\figue\\onedrive\\escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A8E999-1337-47C7-8F73-A9C5BF9497FA}|ufl_erp\\ufl_erp.csproj|solutionrelative:ufl_erp\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369A60D4-BF83-4787-A0A9-474D4658A7C2}|ufl_erp_api\\ufl_erp_api.csproj|c:\\users\\figue\\onedrive\\escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{369A60D4-BF83-4787-A0A9-474D4658A7C2}|ufl_erp_api\\ufl_erp_api.csproj|solutionrelative:ufl_erp_api\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369A60D4-BF83-4787-A0A9-474D4658A7C2}|ufl_erp_api\\ufl_erp_api.csproj|c:\\users\\figue\\onedrive\\escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{369A60D4-BF83-4787-A0A9-474D4658A7C2}|ufl_erp_api\\ufl_erp_api.csproj|solutionrelative:ufl_erp_api\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369A60D4-BF83-4787-A0A9-474D4658A7C2}|ufl_erp_api\\ufl_erp_api.csproj|c:\\users\\figue\\onedrive\\escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{369A60D4-BF83-4787-A0A9-474D4658A7C2}|ufl_erp_api\\ufl_erp_api.csproj|solutionrelative:ufl_erp_api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369A60D4-BF83-4787-A0A9-474D4658A7C2}|ufl_erp_api\\ufl_erp_api.csproj|c:\\users\\figue\\onedrive\\escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{369A60D4-BF83-4787-A0A9-474D4658A7C2}|ufl_erp_api\\ufl_erp_api.csproj|solutionrelative:ufl_erp_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369A60D4-BF83-4787-A0A9-474D4658A7C2}|ufl_erp_api\\ufl_erp_api.csproj|c:\\users\\figue\\onedrive\\escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{369A60D4-BF83-4787-A0A9-474D4658A7C2}|ufl_erp_api\\ufl_erp_api.csproj|solutionrelative:ufl_erp_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369A60D4-BF83-4787-A0A9-474D4658A7C2}|ufl_erp_api\\ufl_erp_api.csproj|c:\\users\\figue\\onedrive\\escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\controllers\\branchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{369A60D4-BF83-4787-A0A9-474D4658A7C2}|ufl_erp_api\\ufl_erp_api.csproj|solutionrelative:ufl_erp_api\\controllers\\branchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369A60D4-BF83-4787-A0A9-474D4658A7C2}|ufl_erp_api\\ufl_erp_api.csproj|c:\\users\\figue\\onedrive\\escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{369A60D4-BF83-4787-A0A9-474D4658A7C2}|ufl_erp_api\\ufl_erp_api.csproj|solutionrelative:ufl_erp_api\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369A60D4-BF83-4787-A0A9-474D4658A7C2}|ufl_erp_api\\ufl_erp_api.csproj|c:\\users\\figue\\onedrive\\escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{369A60D4-BF83-4787-A0A9-474D4658A7C2}|ufl_erp_api\\ufl_erp_api.csproj|solutionrelative:ufl_erp_api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369A60D4-BF83-4787-A0A9-474D4658A7C2}|ufl_erp_api\\ufl_erp_api.csproj|c:\\users\\figue\\onedrive\\escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{369A60D4-BF83-4787-A0A9-474D4658A7C2}|ufl_erp_api\\ufl_erp_api.csproj|solutionrelative:ufl_erp_api\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369A60D4-BF83-4787-A0A9-474D4658A7C2}|ufl_erp_api\\ufl_erp_api.csproj|c:\\users\\figue\\onedrive\\escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{369A60D4-BF83-4787-A0A9-474D4658A7C2}|ufl_erp_api\\ufl_erp_api.csproj|solutionrelative:ufl_erp_api\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369A60D4-BF83-4787-A0A9-474D4658A7C2}|ufl_erp_api\\ufl_erp_api.csproj|c:\\users\\figue\\onedrive\\escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{369A60D4-BF83-4787-A0A9-474D4658A7C2}|ufl_erp_api\\ufl_erp_api.csproj|solutionrelative:ufl_erp_api\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369A60D4-BF83-4787-A0A9-474D4658A7C2}|ufl_erp_api\\ufl_erp_api.csproj|c:\\users\\figue\\onedrive\\escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\models\\detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{369A60D4-BF83-4787-A0A9-474D4658A7C2}|ufl_erp_api\\ufl_erp_api.csproj|solutionrelative:ufl_erp_api\\models\\detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369A60D4-BF83-4787-A0A9-474D4658A7C2}|ufl_erp_api\\ufl_erp_api.csproj|c:\\users\\figue\\onedrive\\escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{369A60D4-BF83-4787-A0A9-474D4658A7C2}|ufl_erp_api\\ufl_erp_api.csproj|solutionrelative:ufl_erp_api\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A8E999-1337-47C7-8F73-A9C5BF9497FA}|ufl_erp\\ufl_erp.csproj|c:\\users\\figue\\onedrive\\escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp\\views\\brands\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69A8E999-1337-47C7-8F73-A9C5BF9497FA}|ufl_erp\\ufl_erp.csproj|solutionrelative:ufl_erp\\views\\brands\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A8E999-1337-47C7-8F73-A9C5BF9497FA}|ufl_erp\\ufl_erp.csproj|c:\\users\\figue\\onedrive\\escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69A8E999-1337-47C7-8F73-A9C5BF9497FA}|ufl_erp\\ufl_erp.csproj|solutionrelative:ufl_erp\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A8E999-1337-47C7-8F73-A9C5BF9497FA}|ufl_erp\\ufl_erp.csproj|c:\\users\\figue\\onedrive\\escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A8E999-1337-47C7-8F73-A9C5BF9497FA}|ufl_erp\\ufl_erp.csproj|solutionrelative:ufl_erp\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A8E999-1337-47C7-8F73-A9C5BF9497FA}|ufl_erp\\ufl_erp.csproj|c:\\users\\figue\\onedrive\\escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A8E999-1337-47C7-8F73-A9C5BF9497FA}|ufl_erp\\ufl_erp.csproj|solutionrelative:ufl_erp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A8E999-1337-47C7-8F73-A9C5BF9497FA}|ufl_erp\\ufl_erp.csproj|c:\\users\\figue\\onedrive\\escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{69A8E999-1337-47C7-8F73-A9C5BF9497FA}|ufl_erp\\ufl_erp.csproj|solutionrelative:ufl_erp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A8E999-1337-47C7-8F73-A9C5BF9497FA}|ufl_erp\\ufl_erp.csproj|c:\\users\\figue\\onedrive\\escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69A8E999-1337-47C7-8F73-A9C5BF9497FA}|ufl_erp\\ufl_erp.csproj|solutionrelative:ufl_erp\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A8E999-1337-47C7-8F73-A9C5BF9497FA}|ufl_erp\\ufl_erp.csproj|c:\\users\\figue\\onedrive\\escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp\\views\\brands\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69A8E999-1337-47C7-8F73-A9C5BF9497FA}|ufl_erp\\ufl_erp.csproj|solutionrelative:ufl_erp\\views\\brands\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A8E999-1337-47C7-8F73-A9C5BF9497FA}|ufl_erp\\ufl_erp.csproj|c:\\users\\figue\\onedrive\\escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{69A8E999-1337-47C7-8F73-A9C5BF9497FA}|ufl_erp\\ufl_erp.csproj|solutionrelative:ufl_erp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A8E999-1337-47C7-8F73-A9C5BF9497FA}|ufl_erp\\ufl_erp.csproj|c:\\users\\figue\\onedrive\\escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp\\controllers\\simulationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A8E999-1337-47C7-8F73-A9C5BF9497FA}|ufl_erp\\ufl_erp.csproj|solutionrelative:ufl_erp\\controllers\\simulationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369A60D4-BF83-4787-A0A9-474D4658A7C2}|ufl_erp_api\\ufl_erp_api.csproj|c:\\users\\figue\\onedrive\\escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\ufl_erp_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{369A60D4-BF83-4787-A0A9-474D4658A7C2}|ufl_erp_api\\ufl_erp_api.csproj|solutionrelative:ufl_erp_api\\ufl_erp_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A8E999-1337-47C7-8F73-A9C5BF9497FA}|ufl_erp\\ufl_erp.csproj|c:\\users\\figue\\onedrive\\escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A8E999-1337-47C7-8F73-A9C5BF9497FA}|ufl_erp\\ufl_erp.csproj|solutionrelative:ufl_erp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{369A60D4-BF83-4787-A0A9-474D4658A7C2}|ufl_erp_api\\ufl_erp_api.csproj|c:\\users\\figue\\onedrive\\escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\migrations\\20250523204726_cte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{369A60D4-BF83-4787-A0A9-474D4658A7C2}|ufl_erp_api\\ufl_erp_api.csproj|solutionrelative:ufl_erp_api\\migrations\\20250523204726_cte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StocksController.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\Controllers\\StocksController.cs",
+              "RelativeDocumentMoniker": "ufl_erp_api\\Controllers\\StocksController.cs",
+              "ToolTip": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\Controllers\\StocksController.cs",
+              "RelativeToolTip": "ufl_erp_api\\Controllers\\StocksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T20:51:59.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20250523204726_cte.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\Migrations\\20250523204726_cte.cs",
+              "RelativeDocumentMoniker": "ufl_erp_api\\Migrations\\20250523204726_cte.cs",
+              "ToolTip": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\Migrations\\20250523204726_cte.cs",
+              "RelativeToolTip": "ufl_erp_api\\Migrations\\20250523204726_cte.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T20:47:26.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "ufl_erp\\Models\\Brand.cs",
+              "ToolTip": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp\\Models\\Brand.cs",
+              "RelativeToolTip": "ufl_erp\\Models\\Brand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T20:44:08.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "ufl_erp_api\\Models\\Brand.cs",
+              "ToolTip": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\Models\\Brand.cs",
+              "RelativeToolTip": "ufl_erp_api\\Models\\Brand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T20:22:12.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BrandsController.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\Controllers\\BrandsController.cs",
+              "RelativeDocumentMoniker": "ufl_erp_api\\Controllers\\BrandsController.cs",
+              "ToolTip": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\Controllers\\BrandsController.cs",
+              "RelativeToolTip": "ufl_erp_api\\Controllers\\BrandsController.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAYwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T15:17:23.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ufl_erp_api\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ufl_erp_api\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAACOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T20:40:29.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\Program.cs",
+              "RelativeDocumentMoniker": "ufl_erp_api\\Program.cs",
+              "ToolTip": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\Program.cs",
+              "RelativeToolTip": "ufl_erp_api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T15:17:52.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ufl_erp_api\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\Models\\Product.cs",
+              "RelativeToolTip": "ufl_erp_api\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T20:22:29.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\appsettings.json",
+              "RelativeDocumentMoniker": "ufl_erp_api\\appsettings.json",
+              "ToolTip": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\appsettings.json",
+              "RelativeToolTip": "ufl_erp_api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-22T15:17:57.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BranchesController.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\Controllers\\BranchesController.cs",
+              "RelativeDocumentMoniker": "ufl_erp_api\\Controllers\\BranchesController.cs",
+              "ToolTip": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\Controllers\\BranchesController.cs",
+              "RelativeToolTip": "ufl_erp_api\\Controllers\\BranchesController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T20:18:57.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ufl_erp_api\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\Models\\User.cs",
+              "RelativeToolTip": "ufl_erp_api\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T20:22:44.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\Models\\Stock.cs",
+              "RelativeDocumentMoniker": "ufl_erp_api\\Models\\Stock.cs",
+              "ToolTip": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\Models\\Stock.cs",
+              "RelativeToolTip": "ufl_erp_api\\Models\\Stock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T20:22:39.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "ufl_erp_api\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\Data\\DataContext.cs",
+              "RelativeToolTip": "ufl_erp_api\\Data\\DataContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA3wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T20:47:40.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\Models\\Sale.cs",
+              "RelativeDocumentMoniker": "ufl_erp_api\\Models\\Sale.cs",
+              "ToolTip": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\Models\\Sale.cs",
+              "RelativeToolTip": "ufl_erp_api\\Models\\Sale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T20:22:34.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\Models\\Branch.cs",
+              "RelativeDocumentMoniker": "ufl_erp_api\\Models\\Branch.cs",
+              "ToolTip": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\Models\\Branch.cs",
+              "RelativeToolTip": "ufl_erp_api\\Models\\Branch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T20:22:09.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "ufl_erp_api\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\Models\\Role.cs",
+              "RelativeToolTip": "ufl_erp_api\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T20:22:31.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "ufl_erp_api\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\Models\\Person.cs",
+              "RelativeToolTip": "ufl_erp_api\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T20:22:21.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Detail.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\Models\\Detail.cs",
+              "RelativeDocumentMoniker": "ufl_erp_api\\Models\\Detail.cs",
+              "ToolTip": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\Models\\Detail.cs",
+              "RelativeToolTip": "ufl_erp_api\\Models\\Detail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T20:22:18.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ufl_erp_api\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\Models\\Category.cs",
+              "RelativeToolTip": "ufl_erp_api\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T20:22:16.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "ufl_erp\\Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "ufl_erp\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T14:25:33.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BrandsController.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp\\Controllers\\BrandsController.cs",
+              "RelativeDocumentMoniker": "ufl_erp\\Controllers\\BrandsController.cs",
+              "ToolTip": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp\\Controllers\\BrandsController.cs",
+              "RelativeToolTip": "ufl_erp\\Controllers\\BrandsController.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAowHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T15:16:43.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp\\Views\\Brands\\Create.cshtml",
+              "RelativeDocumentMoniker": "ufl_erp\\Views\\Brands\\Create.cshtml",
+              "ToolTip": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp\\Views\\Brands\\Create.cshtml",
+              "RelativeToolTip": "ufl_erp\\Views\\Brands\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T14:22:30.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ufl_erp\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ufl_erp\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwDIAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:30:39.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "ufl_erp\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "ufl_erp\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T14:25:41.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp\\Views\\Brands\\Index.cshtml",
+              "RelativeDocumentMoniker": "ufl_erp\\Views\\Brands\\Index.cshtml",
+              "ToolTip": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp\\Views\\Brands\\Index.cshtml",
+              "RelativeToolTip": "ufl_erp\\Views\\Brands\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T14:25:18.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp\\appsettings.json",
+              "RelativeDocumentMoniker": "ufl_erp\\appsettings.json",
+              "ToolTip": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp\\appsettings.json",
+              "RelativeToolTip": "ufl_erp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-22T15:17:30.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ufl_erp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ufl_erp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T15:43:11.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ufl_erp_api.csproj",
+              "DocumentMoniker": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\ufl_erp_api.csproj",
+              "RelativeDocumentMoniker": "ufl_erp_api\\ufl_erp_api.csproj",
+              "ToolTip": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp_api\\ufl_erp_api.csproj",
+              "RelativeToolTip": "ufl_erp_api\\ufl_erp_api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-22T15:17:47.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp\\Program.cs",
+              "RelativeDocumentMoniker": "ufl_erp\\Program.cs",
+              "ToolTip": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp\\Program.cs",
+              "RelativeToolTip": "ufl_erp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T15:17:38.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SimulationController.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp\\Controllers\\SimulationController.cs",
+              "RelativeDocumentMoniker": "ufl_erp\\Controllers\\SimulationController.cs",
+              "ToolTip": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\ufl_erp\\ufl_erp\\ufl_erp\\Controllers\\SimulationController.cs",
+              "RelativeToolTip": "ufl_erp\\Controllers\\SimulationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T15:44:14.026Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

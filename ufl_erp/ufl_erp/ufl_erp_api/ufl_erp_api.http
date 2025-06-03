@@ -1,0 +1,6 @@
+@ufl_erp_api_HostAddress = http://localhost:5218
+
+GET {{ufl_erp_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

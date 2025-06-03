@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "EwItv84PHAzyILBacABLIxYNFP6dXs8nRQvIYwGCASU=",
+  "Source": "ufl_erp_api",
+  "BasePath": "_content/ufl_erp_api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
