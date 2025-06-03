@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Repos\\chatbot\\ChatBot\\chatbot_api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|c:\\repos\\chatbot\\chatbot\\chatbot_api\\chatbot_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|solutionrelative:chatbot_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|c:\\repos\\chatbot\\chatbot\\chatbot_api\\chatbot_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|solutionrelative:chatbot_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|c:\\repos\\chatbot\\chatbot\\chatbot_api\\chatbot_api\\services\\promptexecutorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|solutionrelative:chatbot_api\\services\\promptexecutorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|c:\\repos\\chatbot\\chatbot\\chatbot_api\\chatbot_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|solutionrelative:chatbot_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|c:\\repos\\chatbot\\chatbot\\chatbot_api\\chatbot_api\\services\\telegramservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|c:\\repos\\chatbot\\chatbot\\chatbot_api\\chatbot_api\\services\\promptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|solutionrelative:chatbot_api\\services\\promptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|c:\\repos\\chatbot\\chatbot\\chatbot_api\\chatbot_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|solutionrelative:chatbot_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|c:\\repos\\chatbot\\chatbot\\chatbot_api\\chatbot_api\\controllers\\promptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,7 +66,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "TelegramService.cs",
               "DocumentMoniker": "C:\\Repos\\chatbot\\ChatBot\\chatbot_api\\chatbot_api\\Services\\TelegramService.cs",
               "RelativeDocumentMoniker": "chatbot_api\\Services\\TelegramService.cs",
@@ -78,7 +78,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CompanyApiService.cs",
               "DocumentMoniker": "C:\\Repos\\chatbot\\ChatBot\\chatbot_api\\chatbot_api\\Services\\CompanyApiService.cs",
               "RelativeDocumentMoniker": "chatbot_api\\Services\\CompanyApiService.cs",
@@ -96,14 +96,14 @@
               "RelativeDocumentMoniker": "chatbot_api\\Services\\PromptExecutorService.cs",
               "ToolTip": "C:\\Repos\\chatbot\\ChatBot\\chatbot_api\\chatbot_api\\Services\\PromptExecutorService.cs",
               "RelativeToolTip": "chatbot_api\\Services\\PromptExecutorService.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwLgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAmwKAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-23T21:05:10.585Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Repos\\chatbot\\ChatBot\\chatbot_api\\chatbot_api\\appsettings.json",
               "RelativeDocumentMoniker": "chatbot_api\\appsettings.json",
@@ -164,19 +164,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Repos\\chatbot\\ChatBot\\chatbot_api\\chatbot_api\\Program.cs",
               "RelativeDocumentMoniker": "chatbot_api\\Program.cs",
               "ToolTip": "C:\\Repos\\chatbot\\ChatBot\\chatbot_api\\chatbot_api\\Program.cs",
               "RelativeToolTip": "chatbot_api\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T18:47:10.328Z"
+              "WhenOpened": "2025-05-13T18:47:10.328Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "PromptService.cs",
               "DocumentMoniker": "C:\\Repos\\chatbot\\ChatBot\\chatbot_api\\chatbot_api\\Services\\PromptService.cs",
               "RelativeDocumentMoniker": "chatbot_api\\Services\\PromptService.cs",

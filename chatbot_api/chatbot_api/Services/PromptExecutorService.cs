@@ -39,7 +39,8 @@ namespace chatbot_api.Services
                 temperature = 0.2
             };
 
-            var intentResponse = await openAiIntentClient.PostAsJsonAsync("chat/completions", intentPayload);
+//            var intentResponse = await openAiIntentClient.PostAsJsonAsync("chat/completions", intentPayload);
+            var intentResponse = await PostWithRetryAsync(openAiIntentClient, "chat/completions", intentPayload);
             if (!intentResponse.IsSuccessStatusCode)
                 return "❌ Error al detectar intención del mensaje.";
 
@@ -71,7 +72,22 @@ namespace chatbot_api.Services
 
             return "🤖 No entendí tu solicitud. Escribe *ayuda* para ver los comandos disponibles.";
         }
+        private async Task<HttpResponseMessage> PostWithRetryAsync(HttpClient client, string url, object payload)
+        {
+            const int maxRetries = 3;
+            for (int attempt = 0; attempt <= maxRetries; attempt++)
+            {
+                var response = await client.PostAsJsonAsync(url, payload);
+                if (response.IsSuccessStatusCode || response.StatusCode != System.Net.HttpStatusCode.TooManyRequests || attempt == maxRetries)
+                    return response;
 
+                var delay = TimeSpan.FromSeconds(Math.Pow(2, attempt));
+                await Task.Delay(delay);
+            }
+
+            // Should not reach here, but return generic error
+            return new HttpResponseMessage(System.Net.HttpStatusCode.TooManyRequests);
+        }
         private async Task<string> EjecutarConsultarStock(string mensajeUsuario)
         {
             var prompt = await _promptService.GetByKeyAsync("consultar_stock");
@@ -142,7 +158,8 @@ namespace chatbot_api.Services
                 }
             };
 
-            var response = await client.PostAsJsonAsync("chat/completions", payload);
+//            var response = await client.PostAsJsonAsync("chat/completions", payload);
+            var response = await PostWithRetryAsync(client, "chat/completions", payload);
             if (!response.IsSuccessStatusCode)
                 return $"❌ Error al llamar a GPT. Código: {response.StatusCode}";
 
