@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\chatbot_api\\chatbot_api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|c:\\users\\figue\\onedrive\\escritorio\\chatbot\\funcional\\chatbot_api\\chatbot_api\\chatbot_api\\services\\promptexecutorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|solutionrelative:chatbot_api\\services\\promptexecutorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|c:\\users\\figue\\onedrive\\escritorio\\chatbot\\funcional\\chatbot_api\\chatbot_api\\chatbot_api\\services\\telegramservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|solutionrelative:chatbot_api\\services\\telegramservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|c:\\users\\figue\\onedrive\\escritorio\\chatbot\\funcional\\chatbot_api\\chatbot_api\\chatbot_api\\services\\companyapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|solutionrelative:chatbot_api\\services\\companyapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|c:\\users\\figue\\onedrive\\escritorio\\chatbot\\funcional\\chatbot_api\\chatbot_api\\chatbot_api\\services\\promptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|solutionrelative:chatbot_api\\services\\promptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|c:\\users\\figue\\onedrive\\escritorio\\chatbot\\funcional\\chatbot_api\\chatbot_api\\chatbot_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|solutionrelative:chatbot_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|c:\\users\\figue\\onedrive\\escritorio\\chatbot\\funcional\\chatbot_api\\chatbot_api\\chatbot_api\\controllers\\promptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|solutionrelative:chatbot_api\\controllers\\promptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|c:\\users\\figue\\onedrive\\escritorio\\chatbot\\funcional\\chatbot_api\\chatbot_api\\chatbot_api\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|solutionrelative:chatbot_api\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|c:\\users\\figue\\onedrive\\escritorio\\chatbot\\funcional\\chatbot_api\\chatbot_api\\chatbot_api\\model\\promptdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|solutionrelative:chatbot_api\\model\\promptdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|c:\\users\\figue\\onedrive\\escritorio\\chatbot\\funcional\\chatbot_api\\chatbot_api\\chatbot_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|solutionrelative:chatbot_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|c:\\users\\figue\\onedrive\\escritorio\\chatbot\\funcional\\chatbot_api\\chatbot_api\\chatbot_api\\controllers\\telegramcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|solutionrelative:chatbot_api\\controllers\\telegramcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|c:\\users\\figue\\onedrive\\escritorio\\chatbot\\funcional\\chatbot_api\\chatbot_api\\chatbot_api\\model\\promptendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|solutionrelative:chatbot_api\\model\\promptendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|c:\\users\\figue\\onedrive\\escritorio\\chatbot\\funcional\\chatbot_api\\chatbot_api\\chatbot_api\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|solutionrelative:chatbot_api\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TelegramService.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\chatbot_api\\chatbot_api\\chatbot_api\\Services\\TelegramService.cs",
+              "RelativeDocumentMoniker": "chatbot_api\\Services\\TelegramService.cs",
+              "ToolTip": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\chatbot_api\\chatbot_api\\chatbot_api\\Services\\TelegramService.cs",
+              "RelativeToolTip": "chatbot_api\\Services\\TelegramService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T22:20:07.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CompanyApiService.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\chatbot_api\\chatbot_api\\chatbot_api\\Services\\CompanyApiService.cs",
+              "RelativeDocumentMoniker": "chatbot_api\\Services\\CompanyApiService.cs",
+              "ToolTip": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\chatbot_api\\chatbot_api\\chatbot_api\\Services\\CompanyApiService.cs",
+              "RelativeToolTip": "chatbot_api\\Services\\CompanyApiService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T21:07:30.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PromptExecutorService.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\chatbot_api\\chatbot_api\\chatbot_api\\Services\\PromptExecutorService.cs",
+              "RelativeDocumentMoniker": "chatbot_api\\Services\\PromptExecutorService.cs",
+              "ToolTip": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\chatbot_api\\chatbot_api\\chatbot_api\\Services\\PromptExecutorService.cs",
+              "RelativeToolTip": "chatbot_api\\Services\\PromptExecutorService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwLgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T21:05:10.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PromptController.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\chatbot_api\\chatbot_api\\chatbot_api\\Controllers\\PromptController.cs",
+              "RelativeDocumentMoniker": "chatbot_api\\Controllers\\PromptController.cs",
+              "ToolTip": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\chatbot_api\\chatbot_api\\chatbot_api\\Controllers\\PromptController.cs",
+              "RelativeToolTip": "chatbot_api\\Controllers\\PromptController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwDMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T20:56:45.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PromptDefinition.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\chatbot_api\\chatbot_api\\chatbot_api\\Model\\PromptDefinition.cs",
+              "RelativeDocumentMoniker": "chatbot_api\\Model\\PromptDefinition.cs",
+              "ToolTip": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\chatbot_api\\chatbot_api\\chatbot_api\\Model\\PromptDefinition.cs",
+              "RelativeToolTip": "chatbot_api\\Model\\PromptDefinition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T20:55:38.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StatusController.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\chatbot_api\\chatbot_api\\chatbot_api\\Controllers\\StatusController.cs",
+              "RelativeDocumentMoniker": "chatbot_api\\Controllers\\StatusController.cs",
+              "ToolTip": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\chatbot_api\\chatbot_api\\chatbot_api\\Controllers\\StatusController.cs",
+              "RelativeToolTip": "chatbot_api\\Controllers\\StatusController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T18:46:32.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\chatbot_api\\chatbot_api\\chatbot_api\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "chatbot_api\\Controllers\\ChatController.cs",
+              "ToolTip": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\chatbot_api\\chatbot_api\\chatbot_api\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "chatbot_api\\Controllers\\ChatController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T18:46:27.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\chatbot_api\\chatbot_api\\chatbot_api\\appsettings.json",
+              "RelativeDocumentMoniker": "chatbot_api\\appsettings.json",
+              "ToolTip": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\chatbot_api\\chatbot_api\\chatbot_api\\appsettings.json",
+              "RelativeToolTip": "chatbot_api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-13T18:46:03.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\chatbot_api\\chatbot_api\\chatbot_api\\Program.cs",
+              "RelativeDocumentMoniker": "chatbot_api\\Program.cs",
+              "ToolTip": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\chatbot_api\\chatbot_api\\chatbot_api\\Program.cs",
+              "RelativeToolTip": "chatbot_api\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T18:47:10.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PromptService.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\chatbot_api\\chatbot_api\\chatbot_api\\Services\\PromptService.cs",
+              "RelativeDocumentMoniker": "chatbot_api\\Services\\PromptService.cs",
+              "ToolTip": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\chatbot_api\\chatbot_api\\chatbot_api\\Services\\PromptService.cs",
+              "RelativeToolTip": "chatbot_api\\Services\\PromptService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T20:56:10.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PromptEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\chatbot_api\\chatbot_api\\chatbot_api\\Model\\PromptEndpoint.cs",
+              "RelativeDocumentMoniker": "chatbot_api\\Model\\PromptEndpoint.cs",
+              "ToolTip": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\chatbot_api\\chatbot_api\\chatbot_api\\Model\\PromptEndpoint.cs",
+              "RelativeToolTip": "chatbot_api\\Model\\PromptEndpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T20:55:53.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TelegramController.cs",
+              "DocumentMoniker": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\chatbot_api\\chatbot_api\\chatbot_api\\Controllers\\TelegramController.cs",
+              "RelativeDocumentMoniker": "chatbot_api\\Controllers\\TelegramController.cs",
+              "ToolTip": "C:\\Users\\figue\\OneDrive\\Escritorio\\chatbot\\funcional\\chatbot_api\\chatbot_api\\chatbot_api\\Controllers\\TelegramController.cs",
+              "RelativeToolTip": "chatbot_api\\Controllers\\TelegramController.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAAwJsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T18:46:40.595Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
